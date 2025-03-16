@@ -1,0 +1,149 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "905461",
+      "name": "跳转",
+      "font_class": "tiaozhuan",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "4880421",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5387520",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "eaf1",
+      "unicode_decimal": 60145
+    },
+    {
+      "icon_id": "9186714",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "15933094",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18686076",
+      "name": "哔哩哔哩",
+      "font_class": "bilibili",
+      "unicode": "e528",
+      "unicode_decimal": 58664
+    },
+    {
+      "icon_id": "34064572",
+      "name": "Chrome",
+      "font_class": "Chrome",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "35148915",
+      "name": "kook",
+      "font_class": "a-huitu61",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "37009961",
+      "name": "014_发现更多",
+      "font_class": "a-014_faxiangengduo",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "37009967",
+      "name": "014_更多-37",
+      "font_class": "a-014_gengduo-37",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "37009984",
+      "name": "014_计算器",
+      "font_class": "a-014_jisuanqi",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "37009994",
+      "name": "014_我的团队",
+      "font_class": "a-014_wodetuandui",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "37009995",
+      "name": "014_我的主页",
+      "font_class": "a-014_wodezhuye",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "37009997",
+      "name": "014_收藏",
+      "font_class": "a-014_shoucang",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "37010000",
+      "name": "014_手机",
+      "font_class": "a-014_shouji",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "37010001",
+      "name": "014_外出",
+      "font_class": "a-014_waichu",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "37010017",
+      "name": "014_我的",
+      "font_class": "a-014_wode",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "37858393",
+      "name": "钉钉",
+      "font_class": "dingding",
+      "unicode": "eb7b",
+      "unicode_decimal": 60283
+    },
+    {
+      "icon_id": "41862996",
+      "name": "抖音账号",
+      "font_class": "douyinzhanghao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "43616544",
+      "name": "deepseek-copy",
+      "font_class": "deepseek",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    }
+  ]
+}
